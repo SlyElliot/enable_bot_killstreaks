@@ -3,7 +3,6 @@
 
 /// HOW TO INSTALL ///
 
-
 These two files are for server hosts or local private match players to enable bots in multiplayer to use killstreaks.
 
 Drop the enable_bot_killstreaks.gsc file into your user scripts folder located at:
@@ -16,11 +15,14 @@ h2m-mod\maps\mp\gametypes
 
 /// COMPATIBILITY ///
 
-
 I've tested this for compatibility with:
 
-AutoBotsWithDifficultyH2M
-changeteamFixH2
-nuke_to_moab_patch_v2.1.1
-teambalanceH2
+- AutoBotsWithDifficultyH2M
+
+- changeteamFixH2
+
+- nuke_to_moab_patch_v2.1.1
+
+- teambalanceH2
+
 
