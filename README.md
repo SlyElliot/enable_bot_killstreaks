@@ -1,7 +1,15 @@
+Script files to enable multiplayer bots to gain and deploy various killstreaks in-game.
+
+Stable version 1.0 Github Repo: https://github.com/LogicalLeap/enable_bot_killstreaks
+Github pre-release for the new experimental version: https://github.com/LogicalLeap/enable_bot_killstreaks/releases/tag/experimental
+
+If anyone has any feedback or requests feel free to let me know. I might add more killstreak loadout possibilities for the bots and even enable them to use nukes if anyone is interested.
+
+
 *** Bot Killstreaks by Sly Elliot ***
 
 
-/// HOW TO INSTALL ///
+/// HOW TO INSTALL v1.0 /// 
 
 These two files are for server hosts or local private match players to enable bots in multiplayer to use killstreaks.
 
@@ -13,7 +21,7 @@ h2m-mod\maps\mp\gametypes
 
 
 
-/// COMPATIBILITY ///
+/// COMPATIBILITY /// 
 
 I've tested this for compatibility with:
 
@@ -24,5 +32,19 @@ I've tested this for compatibility with:
 - nuke_to_moab_patch_v2.1.1
 
 - teambalanceH2
+
+- H1Mapvote
+
+
+
+/// HOW TO INSTALL v1.1.2 Experimental ///
+
+drop enable_bot_killstreaks.gsc in your user_scripts
+
+drop _hardpoints.gsc in your h2m-mod\maps\mp\gametypes and replace the file there
+
+drop bot_patches.gsc in your h2m-mod\scripts\mp and replace the file there
+
+
 
 
